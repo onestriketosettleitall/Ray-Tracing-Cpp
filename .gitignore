@@ -1,0 +1,7 @@
+﻿out/
+.vs/
+build/
+*.exe
+*.obj
+*.pdb
+!models/*.obj
